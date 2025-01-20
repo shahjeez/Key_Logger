@@ -39,8 +39,13 @@ Before running the program, ensure you have the following:
    ```bash
    python key1.py
    ```
-
-4. **Access Logs**
+   Start the server by executing the following command:
+   
+   ```bash
+   python server.py
+   ```
+   
+5. **Access Logs**
 
    Logs will be stored in a file named `dat.txt` in the root directory and will be sent to the server with the name `received_data.txt` . If remote logging is enabled, ensure the receiver is set up to handle data from the specified `IP` and `PORT`.
 
