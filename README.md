@@ -24,7 +24,7 @@ Before running the program, ensure you have the following:
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/yourusername/key-logger.git](https://github.com/shahjeez/Key_Logger.git)
+   git clone https://github.com/shahjeez/Key_Logger.git
    cd keyLogger
    ```
 
